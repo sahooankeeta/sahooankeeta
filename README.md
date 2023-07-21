@@ -3,15 +3,14 @@
 
 
 <img height="300px" width ="450px" align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=1600x1200"></img>
-- 🔭 I’m currently working on **social media web app**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJs**
 
 - 🤝 I’m looking for help with **full stack projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sahooankeeta](https://github.com/sahooankeeta)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, SASS, MongoDB**
+- 💬 Ask me about **React, MongoDB, NodeJs, HTML, CSS, JAVASCRIPT, SASS**
 
 - 📫 How to reach me **sahooankeeta@gmail.com**
 
