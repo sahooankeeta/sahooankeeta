@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sahooankeeta.github.io"><img src="https://img.shields.io/badge/Portfolio-sahooankeeta.github.io-c471f5?style=for-the-badge&labelColor=1a1b27" alt="Portfolio"/></a>
+  <a href="https://sahooankeeta.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-sahooankeeta.github.io%2Fportfolio-c471f5?style=for-the-badge&labelColor=1a1b27" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/ankeeta-sahoo-15032001"><img src="https://img.shields.io/badge/LinkedIn-Connect-70a5fd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn"/></a>
   <a href="mailto:sahooankeeta@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-ff9a9e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email"/></a>
 </p>
@@ -14,7 +14,7 @@
 ## 🌸 About me
 - 🔭 Currently building collaborative tools at **Naya**
 - 💬 Ask me about **React, Node.js, MongoDB and JavaScript**
-- 🌐 Portfolio: **[sahooankeeta.github.io](https://sahooankeeta.github.io)**
+- 🌐 Portfolio: **[sahooankeeta.github.io/portfolio](https://sahooankeeta.github.io/portfolio/)**
 - ⚡ Fun fact: I love to Netflix and chill 🍿
 
 ## ⚔️ Tech arsenal
